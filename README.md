@@ -1,5 +1,5 @@
 - Welcome to Githib profile of Umang Garg. 
-- I’m interested in Machine learning, fair learning algorithms, efficient software-hardware co-design architectures, deep-learning 
+- Interests: Machine learning for positive social engineering, fair learning algorithms, efficient software-hardware co-design architectures, deep-learning 
 
 - Reach me at umang@ucsb.edu
 
