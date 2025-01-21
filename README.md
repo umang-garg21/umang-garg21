@@ -1,5 +1,5 @@
 - Welcome to Githib profile of Umang Garg. 
-- Interests: Machine learning for positive social engineering, fair learning algorithms, efficient software-hardware co-design architectures, deep-learning 
+- Interests: Multi-modal foundational model adapted Machine learning, semi-supervised learning algorithms, efficient software-hardware co-design architectures
 
 - Reach me at umang@ucsb.edu
 
