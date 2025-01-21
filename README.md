@@ -1,5 +1,5 @@
 - Welcome to Githib profile of Umang Garg.
-- Interests: Multi-modal foundational model adapted Machine learning, semi-supervised learning, SW design.
+- Interests: Multi-modal foundational model adapted Machine learning| semi-supervised learning | SW design.
 
 - Reach me at umang@ucsb.edu
 
